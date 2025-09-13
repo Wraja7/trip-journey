@@ -6,7 +6,6 @@ export default function Hero() {
       bg-gradient-to-b from-gray-900 via-gray-800 to-black text-white overflow-hidden"
       
     >
-
       {/* Decorative blurred circles */}
       <div className="absolute -top-24 -left-24 w-72 h-72 bg-pink-600 opacity-20 rounded-full blur-3xl"></div>
       <div className="absolute top-1/3 -right-24 w-96 h-96 bg-purple-600 opacity-20 rounded-full blur-3xl"></div>
